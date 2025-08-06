@@ -13,9 +13,7 @@
   </a>
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd4bjUzOTZwY2pqZmdsbTZoMmpxcDV6bzdyb3lmb3MwbHJyeXl6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkdIhnHHnFma6xvICt/giphy.gif"  />
-
-###
+<img align="right" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd4bjUzOTZwY2pqZmdsbTZoMmpxcDV6bzdyb3lmb3MwbHJyeXl6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkdIhnHHnFma6xvICt/giphy.gif" width="320" height="320" />
 
 ## 🛠️ Tecnologias e Ferramentas Mais Usadas
 
@@ -38,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
 </div>
 
----
-
 ## ☕ Outros Conhecimentos
 
 <div align="left">
@@ -49,3 +45,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="40" height="40" alt="Zsh"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="40" height="40" alt="Homebrew"/>
 </div>
+
+
+
+**<**picture**>**
+**<**source**media**=**"**(prefers-color-scheme: dark)**"**srcset**=**"**https://github.com/Francionlj/Francionlj/blob/output/github-snake-dark.svg**"**/>**
+**<**source**media**=**"**(prefers-color-scheme: light)**"**srcset**=**"**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**"**/>**
+**[**img**alt**=**&#34;**github-snake**&#34;**src**=**&#34;**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**&#34;**/](**img**alt**=**%22**github-snake**%22**src**=**%22**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**%22**/)**
+**</**picture**>**
