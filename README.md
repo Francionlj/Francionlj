@@ -1,6 +1,9 @@
 <h2 align="center">
-  👋 Hello! Welcome to my Github profile.<br>
-  <small>My name is Francion Linhares Justino and I am passionate about transforming data into insights as a Data Scientist.</small>
+  👋 Welcome to my GitHub!<br>
+  <small>
+    My name is Francion Linhares Justino.<br>
+    I am a Data Scientist passionate about uncovering insights and solving real-world problems through data.
+  </small>
 </h2>
 
 <div align="center">
