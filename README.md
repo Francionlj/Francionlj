@@ -45,3 +45,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="40" height="40" alt="Zsh"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="40" height="40" alt="Homebrew"/>
 </div>
+
+![snake gif](https://github.com/Francionlj/Francionlj/blob/output/github-contribution-grid-snake.svg)
