@@ -45,11 +45,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="40" height="40" alt="Zsh"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="40" height="40" alt="Homebrew"/>
 </div>
-
-
-
-**<**picture**>**
-**<**source**media**=**"**(prefers-color-scheme: dark)**"**srcset**=**"**https://github.com/Francionlj/Francionlj/blob/output/github-snake-dark.svg**"**/>**
-**<**source**media**=**"**(prefers-color-scheme: light)**"**srcset**=**"**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**"**/>**
-**[**img**alt**=**&#34;**github-snake**&#34;**src**=**&#34;**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**&#34;**/](**img**alt**=**%22**github-snake**%22**src**=**%22**https://github.com/Francionlj/Francionlj/blob/output/github-snake.svg**%22**/)**
-**</**picture**>**
