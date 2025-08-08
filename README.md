@@ -12,7 +12,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  🚀 Hello! I’m Francion Linhares Justino, a Data Scientist from Brazil with a strong focus on Artificial Intelligence and practical experience through academic projects. I have developed skills in SQL, Python, data analysis, visualization, and machine learning, applying them in various educational settings.
+  🚀 Hello! I’m Francion Linhares Justino, a Data Scientist from Brazil with a strong focus on Artificial Intelligence and practical experience through academic projects. I have developed skills in R, Python, data analysis, visualization, and machine learning, applying them in various educational settings.
 
   In addition to my technical expertise, I live in Brazil and am passionate about uncovering insights and solving real-world problems through data.
 
