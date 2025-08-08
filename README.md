@@ -57,7 +57,7 @@
 -->
 
 <!-- GIF DESTAQUE LADO DIREITO -->
-<img align="right" height="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd4bjUzOTZwY2pqZmdsbTZoMmpxcDV6bzdyb3lmb3MwbHJyeXl6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkdIhnHHnFma6xvICt/giphy.gif" width="320" height="320" />
+<img align="right" height="310" src="Glow Machine Learning GIF by xponentialdesign (1).gif" width="320" height="320" />
 <!-- 
   Adiciona um GIF animado alinhado à direita, para chamar atenção para o seu perfil.
 -->
