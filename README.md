@@ -45,14 +45,14 @@
 
 <hr>
 
-
+<!---------
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/Francionlj" title="GitHub Profile">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Francionlj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francionlj&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
-
+------>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Francionlj/Francionlj/output/snake.svg" alt="Snake animation" />
