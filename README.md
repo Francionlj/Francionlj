@@ -3,7 +3,7 @@
   <img height="120" width="140" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzFmd3FxeTByYmhrbHFydDVyNHlrM3ZjbHZhNWlpejVseTJiZDNoeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ITRemFlr5tS39AzQUL/giphy.gif" alt="Machine Learning Gif" />
 
   <h1>Hi, I'm Francion Linhares Justino 👋</h1>
-  <h3>Data Scientist | Applied AI | Geospatial & Health Data Intelligence</h3>
+  <h3>Data Scientist at the University of Fortaleza | Data Science, Artificial Intelligence</h3>
 
   <p>
     Engineer with a master's background in Applied Informatics, focused on Data Science and Artificial Intelligence.
