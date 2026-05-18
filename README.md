@@ -8,6 +8,7 @@
   <p>
     Engineer with a master's background in Applied Informatics, focused on Data Science and Artificial Intelligence.
     I build data solutions that transform complex information into clear, useful decisions.
+    I like building tools that make complex data easier to understand and act on.
   </p>
 
   <a href="https://www.linkedin.com/in/francionlj" target="_blank" title="LinkedIn">
@@ -16,6 +17,10 @@
   <a href="mailto:francionlj@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
+  <p>
+    For professional background, projects, and academic experience, connect with me on LinkedIn.
+  </p>
 </div>
 
 <hr>
@@ -48,6 +53,14 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
 <hr>
 
 ## 🛠️ Core Stack
+
+| Context | Technologies I Use |
+| --- | --- |
+| Data Analysis | Python, R, Pandas, NumPy |
+| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
+| Visualization | Plotly, Matplotlib |
+| Geospatial & Network Analysis | NetworkX, data-driven mapping and analytical workflows |
+| Automation & Tooling | Selenium, Git, Bash, Zsh, VS Code |
 
 ### Programming Languages
 <div align="left">
