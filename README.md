@@ -117,13 +117,6 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
   <img src="game.gif" alt="GitHub Space Shooter Game" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Francionlj" title="GitHub Profile">
-    <img loading="lazy" height="165" src="https://github-readme-stats.vercel.app/api?username=Francionlj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img loading="lazy" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francionlj&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
-
 <hr>
 
 <p align="center">
