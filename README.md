@@ -54,15 +54,7 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
 
 ## 🛠️ Core Stack
 
-| Context | Technologies I Use |
-| --- | --- |
-| Data Analysis | Python, R, Pandas, NumPy |
-| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
-| Visualization | Plotly, Matplotlib |
-| Geospatial & Network Analysis | NetworkX, data-driven mapping and analytical workflows |
-| Automation & Tooling | Selenium, Git, Bash, Zsh, VS Code |
-
-### Programming Languages
+### Data Analysis
 <div align="left">
   <a href="https://docs.python.org/3/" target="_blank" title="Python Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -70,25 +62,16 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
   <a href="https://cran.r-project.org/manuals.html" target="_blank" title="R Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" alt="R"/>
   </a>
-</div>
-
-### Data, Visualization & Machine Learning
-<div align="left">
   <a href="https://pandas.pydata.org/docs/" target="_blank" title="Pandas Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   </a>
   <a href="https://numpy.org/doc/" target="_blank" title="NumPy Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
   </a>
-  <a href="https://networkx.org/documentation/stable/" target="_blank" title="NetworkX Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="40" height="40" alt="NetworkX"/>
-  </a>
-  <a href="https://matplotlib.org/stable/contents.html" target="_blank" title="Matplotlib Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
-  </a>
-  <a href="https://plotly.com/python/" target="_blank" title="Plotly Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
-  </a>
+</div>
+
+### Machine Learning
+<div align="left">
   <a href="https://scikit-learn.org/stable/documentation.html" target="_blank" title="Scikit-learn Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
   </a>
@@ -100,22 +83,39 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
   </a>
 </div>
 
-### Tools & Automation
+### Visualization
 <div align="left">
-  <a href="https://git-scm.com/doc" target="_blank" title="Git Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <a href="https://matplotlib.org/stable/contents.html" target="_blank" title="Matplotlib Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
   </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank" title="VSCode Documentation">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <a href="https://plotly.com/python/" target="_blank" title="Plotly Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
   </a>
+</div>
+
+### Geospatial & Network Analysis
+<div align="left">
+  <a href="https://networkx.org/documentation/stable/" target="_blank" title="NetworkX Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="40" height="40" alt="NetworkX"/>
+  </a>
+</div>
+
+### Automation & Tooling
+<div align="left">
   <a href="https://www.selenium.dev/documentation/" target="_blank" title="Selenium Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank" title="Git Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   </a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" title="Bash Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
   </a>
   <a href="https://zsh.sourceforge.io/Doc/" target="_blank" title="Zsh Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="40" height="40" alt="Zsh"/>
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank" title="VSCode Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
   </a>
   <a href="https://brew.sh/" target="_blank" title="Homebrew Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="40" height="40" alt="Homebrew"/>
