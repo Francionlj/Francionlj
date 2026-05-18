@@ -91,6 +91,9 @@ I'm a Brazil-based Data Scientist from Fortaleza, Ceará, passionate about uncov
   <a href="https://plotly.com/python/" target="_blank" title="Plotly Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
   </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn Documentation">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="40" alt="Seaborn"/>
+  </a>
 </div>
 
 ### Geospatial & Network Analysis
