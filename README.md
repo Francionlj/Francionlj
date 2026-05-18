@@ -20,6 +20,14 @@
 </details>
 
 <!-- CONTATOS (BADGES) -->
+<div align="left" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/francionlj" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:francionlj@gmail.com" target="_blank" title="Gmail">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
   <!-- Descomente e adicione seus links se quiser -->
   <!--
   <a href="https://www.youtube.com/YOUR_CHANNEL" target="_blank" title="YouTube">
@@ -159,7 +167,6 @@
   </div>-->
 
   
-
 
 
 
