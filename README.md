@@ -53,6 +53,13 @@
 
 <hr>
 
+<!-- GH SPACE SHOOTER -->
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter Game" />
+</p>
+
+<hr>
+
 <!---------
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/Francionlj" title="GitHub Profile">
