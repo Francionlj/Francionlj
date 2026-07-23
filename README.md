@@ -12,6 +12,11 @@
     I like building tools that make complex data easier to understand and act on.
   </p>
 
+  <p>
+    <strong>Open to Data Scientist, AI Engineering, and Analytics Engineering opportunities.</strong>
+    I am especially interested in roles where applied AI, statistical modeling, and data products turn complex datasets into practical decisions.
+  </p>
+
   <a href="https://www.linkedin.com/in/francionlj" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -28,10 +33,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Brazil-based Data Scientist with a focus on AI Engineering, based in Fortaleza, Ceará, passionate about uncovering insights, building intelligent workflows, and solving real-world problems with data.
+I'm a Data Scientist based in Fortaleza, Ceará, Brazil, with a focus on AI Engineering, applied analytics, and statistical modeling. I enjoy uncovering insights, building intelligent workflows, and solving real-world problems with data.
 
-- 🎯 Focused on Data Science, Artificial Intelligence, AI Engineering, geospatial intelligence, and public health analytics
-- 🧠 Experienced with Python, R, data analysis, visualization, automation, machine learning, and applied AI workflows
+- 🎯 Focused on Data Science, Artificial Intelligence, AI Engineering, analytics engineering, and decision-support systems
+- 🧠 Experienced with Python, R, SQL-based analysis, visualization, automation, machine learning, and applied AI workflows
+- 🌎 Domain experience in public health analytics, epidemiological indicators, geospatial intelligence, and business decision support
 - 🏛️ Connected to academic and applied research projects through Universidade de Fortaleza - UNIFOR
 - 🤝 I enjoy translating technical analysis into clear narratives for decision-making
 
@@ -43,13 +49,15 @@ I'm a Brazil-based Data Scientist with a focus on AI Engineering, based in Forta
 
 <hr>
 
-## 🚀 Featured Work
+## 🚀 Selected Projects
+
+Selected applied work across data pipelines, spatial analysis, epidemiological modeling, pricing intelligence, and decision support.
 
 | Project | What It Solves | Main Focus |
 | --- | --- | --- |
-| Automação de Indicadores: Cadernos de Saúde Pública | Automated processing of municipal epidemiological indicators and structured technical reports | Data pipelines, public health analytics |
-| Web App de Inteligência Geoespacial | Business viability analysis using sociodemographic and location data | Geospatial intelligence, heatmaps, decision support |
-| Modelo Preditivo de Ondas de COVID-19 | Early detection of epidemiological outbreaks using symptoms and emergency-care notifications | Predictive modeling, health data, applied research |
+| Health Indicator Automation: Cadernos de Saúde Pública | Automated processing of municipal epidemiological indicators and structured technical reports | Data pipelines, public health analytics |
+| Geospatial Intelligence Web App | Business viability analysis using sociodemographic and location data | Geospatial intelligence, heatmaps, decision support |
+| COVID-19 Wave Prediction Model | Early detection of epidemiological outbreaks using symptoms and emergency-care notifications | Predictive modeling, health data, applied research |
 
 <hr>
 
@@ -69,6 +77,9 @@ I'm a Brazil-based Data Scientist with a focus on AI Engineering, based in Forta
   </a>
   <a href="https://cran.r-project.org/manuals.html" target="_blank" title="R Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+  </a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank" title="SQLite Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
   </a>
   <a href="https://pandas.pydata.org/docs/" target="_blank" title="Pandas Documentation">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
