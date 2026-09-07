@@ -51,7 +51,7 @@ I'm a Data Scientist based in Fortaleza, Ceará, Brazil, with a focus on AI Engi
 
 ## 🚀 Selected Projects
 
-Selected applied work across data pipelines, spatial analysis, epidemiological modeling, pricing intelligence, and decision support.
+Selected applied work across data pipelines, spatial analysis, epidemiological modeling, credit risk modeling, and decision support.
 
 | Project | What It Solves | Main Focus |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Selected applied work across data pipelines, spatial analysis, epidemiological m
 
 | Project | Status | Last Update | Focus |
 | --- | --- | --- | --- |
-| [olist-freight-pricing-engine](https://github.com/Francionlj/olist-freight-pricing-engine) | <img src="https://img.shields.io/badge/status-In%20progress-2EA44F?style=for-the-badge" height="24" alt="In progress" /> | July 23, 2026 | Freight pricing, data engineering, applied AI |
+| [Credit-Card-Clients](https://github.com/Francionlj/Credit-Card-Clients) | <img src="https://img.shields.io/badge/status-In%20progress-2EA44F?style=for-the-badge" height="24" alt="In progress" /> | September 7, 2026 | Credit risk, statistical modeling, banking analytics |
 
 <hr>
 
